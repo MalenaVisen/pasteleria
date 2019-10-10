@@ -1,0 +1,10 @@
+.col-md-12 {background-color:maroon;
+    color: rgb(253, 196, 224);
+     font-size: 70px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.navbar {font-size: 20px;
+    background-color: rgb(253, 196, 224);
+    color: maroon;
+    text-align: center}
+.cartelito {background-color: royalblue;
